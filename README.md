@@ -22,17 +22,17 @@ Alternatively you can install an R and R Debugger on your VS Code:
 # Before running/importing your csv file you need to run the following commands for you R to detect the working folder:
 
 -----------------------------------------------
-| # Get the current working directory.         |
+ # Get the current working directory.         
 |                                              |     
-|  getwd()                                     |
+  getwd()                                     
 |                                              |
-|   # Set the working directory to the folder  | 
-|   # WorkingDirectory on the C drive.         | 
+   # Set the working directory to the folder  
+   # WorkingDirectory on the C drive.         
 |                                              |  
-|   # This folder must be created in Windows   |
-|   # before running the code.                 |   
+   # This folder must be created in Windows   
+  # before running the code.                   
 |                                              | 
-|   ## Example:                                |
-|  * setwd("B:/SCHOOL/STC/Assignment")         | 
+   ## Example:                                
+  * setwd("B:/SCHOOL/STC/Assignment")          
 |                                              |    
 ------------------------------------------------
