@@ -16,23 +16,20 @@ R related assignments and solutions with the marks I got!
 Alternatively you can install an R and R Debugger on your VS Code:
 
 ## Link on how to setup your VS Code:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ORrELERGIHs?si=b2z2PDhZexGaXuWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/embed/ORrELERGIHs?si=b2z2PDhZexGaXuWw
 
 ## Directory Setup in R-Studio:
 # Before running/importing your csv file you need to run the following commands for you R to detect the working folder:
 
 -----------------------------------------------
-  Get the current working directory.         
-|                                              |     
-  getwd()                                     
+  Get the current working directory:  
+  * getwd()                                     
 
     Set the working directory to the folder  
     WorkingDirectory on the C drive.         
     
    This folder must be created in Windows   
    before running the code.                   
-|                                              | 
+   
    ## Example:                                
-  * setwd("B:/SCHOOL/STC/Assignment")          
-|                                              |    
-------------------------------------------------
+  * setwd("B:/SCHOOL/STC/Assignment")
