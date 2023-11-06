@@ -25,10 +25,10 @@ Alternatively you can install an R and R Debugger on your VS Code:
   Get the current working directory.         
 |                                              |     
   getwd()                                     
-|                                              |
+
     Set the working directory to the folder  
     WorkingDirectory on the C drive.         
-|                                              |  
+    
    This folder must be created in Windows   
    before running the code.                   
 |                                              | 
