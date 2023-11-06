@@ -10,7 +10,7 @@
 R related assignments and solutions with the marks I got!
 
 
-## You can run the code in R - Studio:
+## You can run the codes in R - Studio:
 # Link: https://posit.co/download/rstudio-desktop/
 
 Alternatively you can install an R and R Debugger on your VS Code:
