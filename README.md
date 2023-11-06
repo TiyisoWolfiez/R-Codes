@@ -1,6 +1,6 @@
 # R-Codes, Statistics:
 
-## The Assignment cover the following topics in R:
+## The Assignments cover the following topics in R:
 * Exploratory Data Analysis (Assignment 1)
 * Probability (Assignment 2)
 * Inference for categorical data (Assignment 3)
