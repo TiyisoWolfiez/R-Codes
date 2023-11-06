@@ -19,7 +19,7 @@ Alternatively you can install an R and R Debugger on your VS Code:
 https://www.youtube.com/embed/ORrELERGIHs?si=b2z2PDhZexGaXuWw
 
 ## Directory Setup in R-Studio:
-# Before running/importing your csv file you need to run the following commands for you R to detect the working folder:
+# Before running/importing your csv file your need to run the following commands for you R to detect the working folder:
 
 -----------------------------------------------
   Get the current working directory:  
